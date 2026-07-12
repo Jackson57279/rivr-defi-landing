@@ -1,0 +1,41 @@
+public/favicon.svg
+  s_e92bbe3a54fbe7::t_4b6cba620522c7 1-4
+vite.config.ts
+  s_e92bbe3a54fbe7::t_efb6b79d465071 1-13
+src/main.tsx
+  s_e92bbe3a54fbe7::t_be5295c912d518 1-10
+tsconfig.json
+  s_e92bbe3a54fbe7::t_b40094d137ae6b 1-7
+bun.lock
+  s_e92bbe3a54fbe7::t_4ce4a80e22684e 1-210
+tsconfig.node.json
+  s_e92bbe3a54fbe7::t_d2becf8e7b1054 1-19
+tsconfig.app.json
+  s_e92bbe3a54fbe7::t_2188eb8169c86f 1-24
+.gitignore
+  s_e39f5d12498080::t_252d3b39efa694 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "9deba8b5dc989e2792088db2ba135bc71f415a2f",
+  "prompts": {},
+  "sessions": {
+    "s_e39f5d12498080": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47db7508-130a-4a7b-9e2a-93370df604fe",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jackson57279 <otdoges@proton.me>"
+    },
+    "s_e92bbe3a54fbe7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e6d507fc-bada-4fa3-94f9-57a5c5f76cce",
+        "model": "composer-2.5"
+      },
+      "human_author": "Jackson57279 <otdoges@proton.me>"
+    }
+  }
+}
